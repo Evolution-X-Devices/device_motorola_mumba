@@ -1,0 +1,20 @@
+[
+  {
+    "repository": "Evolution-X-Devices/vendor_motorola_mumba",
+    "target_path": "vendor/motorola/mumba",
+    "remote": "github-non-los",
+    "branch": "bka"
+  },
+  {
+    "repository": "Evolution-X-Devices/device_motorola_mumba-kernel",
+    "target_path": "device/motorola/mumba-kernel",
+    "remote": "github-non-los",
+    "branch": "bka"
+  },
+  {
+    "repository": "Evolution-X-Devices/hardware_motorola",
+    "target_path": "hardware/motorola",
+    "remote": "github-non-los",
+    "branch": "bka"
+  }
+]
