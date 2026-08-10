@@ -982,6 +982,9 @@ vendor/lib64/vendor.qti.hardware.perf2-V1-ndk.so
 vendor/lib64/vendor.qti.hardware.power.powermodule-V1-ndk.so
 vendor/lib64/motorola.hardware.power-V2-ndk.so
 
+# Task profile
+vendor/etc/task_profiles.json
+
 # Public libraries
 system_ext/etc/public.libraries-qti.txt
 vendor/etc/public.libraries.txt
